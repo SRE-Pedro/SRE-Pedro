@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-label="Pedro Henrique Santos, Site Reliability Engineer">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0B1220"/>
+      <stop offset="1" stop-color="#111C33"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#38BDF8"/>
+      <stop offset="1" stop-color="#34D399"/>
+    </linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#1E2A44" stroke-width="1"/>
+    </pattern>
+    <radialGradient id="glow" cx="0.82" cy="0.3" r="0.5">
+      <stop offset="0" stop-color="#38BDF8" stop-opacity="0.22"/>
+      <stop offset="1" stop-color="#38BDF8" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="1200" height="300" rx="18" fill="url(#bg)"/>
+  <rect width="1200" height="300" rx="18" fill="url(#grid)" opacity="0.55"/>
+  <rect width="1200" height="300" rx="18" fill="url(#glow)"/>
+
+  <g font-family="-apple-system, 'Segoe UI', Inter, Helvetica, Arial, sans-serif">
+    <text x="72" y="112" fill="#94A3B8" font-size="20" letter-spacing="4">SITE RELIABILITY ENGINEER</text>
+    <text x="72" y="172" fill="#F8FAFC" font-size="56" font-weight="700">Pedro Henrique Santos</text>
+    <rect x="72" y="196" width="120" height="4" rx="2" fill="url(#accent)"/>
+    <text x="72" y="244" fill="#CBD5E1" font-size="22">Plataforma · Observabilidade · FinOps · Infra como código</text>
+  </g>
+
+  <g transform="translate(818 76)" font-family="'SF Mono', Menlo, Consolas, monospace" font-size="16">
+    <rect width="318" height="150" rx="12" fill="#0F172A" stroke="#22314F"/>
+    <circle cx="22" cy="22" r="5" fill="#F87171"/>
+    <circle cx="40" cy="22" r="5" fill="#FBBF24"/>
+    <circle cx="58" cy="22" r="5" fill="#34D399"/>
+    <text x="22" y="60" fill="#64748B">$ <tspan fill="#E2E8F0">kubectl get slo</tspan></text>
+    <text x="22" y="88" fill="#34D399">availability  99.95%  ok</text>
+    <text x="22" y="112" fill="#38BDF8">p99 latency   180ms   ok</text>
+    <text x="22" y="134" fill="#64748B" font-size="13">error budget restante: 74%</text>
+  </g>
+</svg>
