@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/pedro-andriola"><img src="https://img.shields.io/badge/LinkedIn-pedro--andriola-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/pedro-h-s-20ab04192"><img src="https://img.shields.io/badge/LinkedIn-Pedro_Henrique_Santos-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:riqueft@icloud.com"><img src="https://img.shields.io/badge/E--mail-riqueft@icloud.com-334155?style=for-the-badge&logo=icloud&logoColor=white" alt="E-mail"></a>
   <img src="https://img.shields.io/badge/Florian%C3%B3polis-SC-0F766E?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Florianópolis, SC">
 </p>
